@@ -1,36 +1,75 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+````md
+# TechDay
+
+A minimal, fast tech news reader focused on AI, startups, and development.
+
+## Overview
+
+TechDay is a simple news feed built for developers and builders who want to stay updated with the latest in tech without noise or clutter.
+
+The goal is to provide a clean, scroll-based reading experience with relevant and concise tech news.
+
+## Features (v1)
+
+- Clean and minimal UI
+- Tech + AI focused news feed
+- Category tabs (AI, Startups, Dev, Security)
+- Fast and lightweight experience
+
+## Tech Stack
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+
+## Status
+
+Currently in early development. More features and improvements coming soon.
+
+## Future Improvements
+
+- Real-time news fetching (RSS / API)
+- Category filtering
+- Search functionality
+- Bookmark/save articles
+- Personalized feed
 
 ## Getting Started
 
-First, run the development server:
-
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+````
+
+Open [http://localhost:3000](http://localhost:3000)
+
+## Author
+
+Built by Ankit
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## One small improvement (optional but powerful)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+After pushing, add GitHub topics:
 
-## Learn More
+- `nextjs`
+- `typescript`
+- `tailwindcss`
+- `news-app`
+- `tech-news`
+- `frontend-project`
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This is enough. Don’t overcomplicate README.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Now:
+👉 commit this  
+👉 push  
+👉 go back to Django prep
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+That’s the right flow.
+```
