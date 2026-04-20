@@ -1,41 +1,28 @@
 # TechDay
 
-A minimal, fast tech news reader focused on AI, startups, and development.
+Building a minimal, fast tech news product for developers and builders.
 
 ## Overview
 
-TechDay is a simple news feed built for developers and builders who want to stay updated with the latest in tech without noise or clutter.
+TechDay is an early-stage project focused on creating a clean and fast news feed for tech, AI, and startups.
 
-The goal is to provide a clean, scroll-based reading experience with relevant and concise tech news.
+The goal is to remove noise and deliver a simple, scroll-based reading experience for developers.
 
-## Features (v1)
+## Current Status
 
-- Clean and minimal UI
-- Tech + AI focused news feed
-- Category tabs (AI, Startups, Dev, Security)
-- Fast and lightweight experience
+🚧 This project is in active development.
+
+Initial UI and structure are being set up. Core features like real-time news fetching and filtering are planned next.
+
+## Planned Features
+
+- Tech + AI news aggregation (RSS / API)
+- Category filtering (AI, Startups, Dev, Security)
+- Clean and minimal reading experience
+- Fast loading and lightweight UI
 
 ## Tech Stack
 
 - Next.js
 - TypeScript
 - Tailwind CSS
-
-## Status
-
-Currently in early development. More features and improvements coming soon.
-
-## Future Improvements
-
-- Real-time news fetching (RSS / API)
-- Category filtering
-- Search functionality
-- Bookmark/save articles
-- Personalized feed
-
-## Getting Started
-
-```bash
-npm install
-npm run dev
-
