@@ -1,4 +1,3 @@
-````md
 # TechDay
 
 A minimal, fast tech news reader focused on AI, startups, and development.
@@ -39,37 +38,4 @@ Currently in early development. More features and improvements coming soon.
 ```bash
 npm install
 npm run dev
-````
 
-Open [http://localhost:3000](http://localhost:3000)
-
-## Author
-
-Built by Ankit
-
-```
-
----
-
-## One small improvement (optional but powerful)
-
-After pushing, add GitHub topics:
-
-- `nextjs`
-- `typescript`
-- `tailwindcss`
-- `news-app`
-- `tech-news`
-- `frontend-project`
-
----
-
-This is enough. Don’t overcomplicate README.
-
-Now:
-👉 commit this  
-👉 push  
-👉 go back to Django prep
-
-That’s the right flow.
-```
